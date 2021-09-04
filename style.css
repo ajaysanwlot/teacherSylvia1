@@ -1,0 +1,36 @@
+
+
+body {
+
+    background-color: lavender;
+    font-family: 'Barlow Condensed', sans-serif;
+}
+h1,h2 {
+    text-align: center;
+    color: cadetblue;
+    font-family: 'Lobster', cursive;
+
+}
+h3 {
+    color:cadetblue;
+}
+
+main {
+    margin:  30px;
+    padding: 10px;
+}
+
+.class1 {
+    font-size: 0.8em;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: cadetblue;
+}
+header {
+    /* background-color: lightblue; */
+    padding: 10px;
+    margin: 10px;
+}
