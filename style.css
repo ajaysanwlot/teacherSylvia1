@@ -34,3 +34,11 @@ header {
     padding: 10px;
     margin: 10px;
 }
+
+.home{
+    font-size: 1.5em;
+}
+a:hover {
+    color:rgb(19, 60, 61);
+    font-weight: 900;
+}
